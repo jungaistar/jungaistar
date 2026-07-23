@@ -98,7 +98,7 @@
 <a href="https://open.kakao.com/o/stBEgxli">
   <img src="https://img.shields.io/badge/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EC%83%81%EB%8B%B4-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=black" />
 </a>
-<a href="mailto:careerdima@gmail.com">
+<a href="mailto:radical8566@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/%F0%9F%93%9E%20010--7315--4585-25D366?style=for-the-badge" />
